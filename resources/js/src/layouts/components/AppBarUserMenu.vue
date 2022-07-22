@@ -14,7 +14,7 @@
           </v-avatar>
           
         <div class="d-inline-flex flex-column justify-center ms-3" style="vertical-align: middle">
-          <span class="text--primary font-weight-semibold mb-n1"> John Doe </span>
+          <span class="text--primary font-weight-semibold mb-n1"> John Doe! </span>
           <small class="text--disabled text-capitalize">Admin</small>
         </div>
       </div>
